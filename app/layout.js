@@ -2,9 +2,9 @@ import "./globals.css";
 import "./page.css";
 
 export const metadata = {
-  title: "GiftCardMall/MyGift | Balance, Activation & Transactions",
+  title: "How to Check GiftCardMall/MyGift Balance and Activation?",
   description:
-    "Learn How to Check giftcardmall/mygift Balance, complete Activation, review Visa transactions, and verify your actual remaining funds with helpful tips for resolving prepaid gift card issues.",
+    "To Check your GiftCardMall/MyGift balance information, Prepaid Visa or Gift Card Activation safely. Help with www.giftcardmall.com/mygift.",
 };
 
 export default function RootLayout({ children }) {
